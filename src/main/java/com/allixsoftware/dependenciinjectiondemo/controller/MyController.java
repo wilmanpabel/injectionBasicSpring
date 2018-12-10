@@ -1,4 +1,4 @@
-package com.allixsoftware.dependenciinjectiondemo;
+package com.allixsoftware.dependenciinjectiondemo.controller;
 
 import org.springframework.stereotype.Controller;
 
